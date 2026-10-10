@@ -7,6 +7,7 @@
 | מפגש | נושא |
 |---|---|
 | 1 | [סביבת העבודה, הטרמינל, והתוכנית הראשונה](lessons/01-environment/README.md) |
+| 2 | [משתנים, טיפוסים וביטויים](lessons/02-variables/README.md) |
 
 </div>
 
