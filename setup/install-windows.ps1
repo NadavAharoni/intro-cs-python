@@ -5,7 +5,7 @@
 #   - makes Git Bash the default terminal in VS Code
 #   - adds a Git Bash profile to Windows Terminal (if Git didn't create one)
 #
-# Run it from a regular (not administrator) PowerShell window:
+# Run it from a regular (not administrator) PowerShell window, e.g. a PowerShell terminal inside VS Code:
 #
 #   irm https://raw.githubusercontent.com/NadavAharoni/intro-cs-python/main/setup/install-windows.ps1 | iex
 #
