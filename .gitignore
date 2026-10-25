@@ -1,0 +1,5 @@
+# Rendered HTML (large, with embedded resources). Re-render with: quarto render exercises.md
+*.html
+
+/.quarto/
+**/*.quarto_ipynb
